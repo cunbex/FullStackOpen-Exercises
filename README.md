@@ -12,3 +12,4 @@ This project is the exercises of the [Full Stack Open 2024](https://fullstackope
   - [0.4: new note](part0/0.4.md)
   - [0.5: Single page app](part0/0.5.md)
   - [0.6: New note](part0/0.6.md)
+- [Part 1: Introduction to React](./part1)
